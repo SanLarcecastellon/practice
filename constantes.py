@@ -1,1 +1,2 @@
-DATA_BASE = "test.db"
+DATA_BASE = "test.db
+EXIT = "Saliendo del programa"
